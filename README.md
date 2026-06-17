@@ -23,7 +23,7 @@ Started cybersecurity journey.
 ## Python Tools
 - Coming soon
 
-##Daily Progress Log
--Day 2- June 17, 2026 - 
+## Daily Progress Log
+- Day 2- June 17, 2026 - 
 **Mastercard certification** : completed the mastercard cybersecurity path( certificate attached above)
 **Networking** : mastered the 7 layers of OSI model
