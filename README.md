@@ -11,7 +11,9 @@ Started cybersecurity journey.
 - Day 2- June 17, 2026 - 
 **Mastercard certification** : completed the mastercard cybersecurity path( certificate attached above),  
 **Networking** : mastered the 7 layers of OSI model,
-**CFT Practice** solved my first challenge on picoCFT  
+**CTF Practice** solved my first challenge on picoCTF
+- Day 3- June 18 ,2026 -
+**CTF  Practice** solved 3 more CTF on picoCTF
 
 ## Tools I am learning
 - Kali Linux
@@ -23,6 +25,7 @@ Started cybersecurity journey.
 
 ## CTF Writeups
 - solved **Obedien cat** on picoCTF on 17 June
+- solved **Lets Warm Up** , **2warm** and **Warmed Up** on picoCTF on 18 June
 
 ## Python Tools
 - Coming soon
