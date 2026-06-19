@@ -14,6 +14,8 @@ Started cybersecurity journey.
 **CTF Practice** solved my first challenge on picoCTF
 - Day 3- June 18 ,2026 -
 **CTF  Practice** solved 3 more CTF on picoCTF
+- Day 4- June 19 ,2026 -
+**CTF Practice** solved 3 more CTF on picoCTF
 
 ## Tools I am learning
 - Kali Linux
@@ -26,6 +28,7 @@ Started cybersecurity journey.
 ## CTF Writeups
 - solved **Obedien cat** on picoCTF on 17 June
 - solved **Lets Warm Up** , **2warm** and **Warmed Up** on picoCTF on 18 June
+- solved **Wave a flag** , **convertme.py** and **what's a net cat?** on picoCTF on 19 June
 
 ## Python Tools
 - Coming soon
