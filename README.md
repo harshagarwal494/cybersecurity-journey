@@ -16,6 +16,9 @@ Started cybersecurity journey.
 **CTF  Practice** solved 3 more CTF on picoCTF
 - Day 4- June 19 ,2026 -
 **CTF Practice** solved 3 more CTF on picoCTF
+- Day 5- June 20 ,2026 -
+**Password Strength Checker** made password checker through Python
+**CTF Practice** solved 1 more CTF on picoCTF
 
 ## Tools I am learning
 - Kali Linux
@@ -29,6 +32,7 @@ Started cybersecurity journey.
 - solved **Obedien cat** on picoCTF on 17 June
 - solved **Lets Warm Up** , **2warm** and **Warmed Up** on picoCTF on 18 June
 - solved **Wave a flag** , **convertme.py** and **what's a net cat?** on picoCTF on 19 June
+- solved **Nice netcat..** on picoCTF on 20 June
 
 ## Python Tools
 - Coming soon
