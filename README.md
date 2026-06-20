@@ -35,6 +35,6 @@ Started cybersecurity journey.
 - solved **Nice netcat..** on picoCTF on 20 June
 
 ## Python Tools
-- Coming soon
+- **Password Strength Checker** uploded on 20 june 2026
 
 
