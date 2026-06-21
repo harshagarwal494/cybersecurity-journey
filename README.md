@@ -19,7 +19,7 @@ Started cybersecurity journey.
 - Day 5- June 20 ,2026 -
 **Password Strength Checker** made password checker through Python
 **CTF Practice** solved 1 more CTF on picoCTF
--Day 6-June 21,2026 -
+- Day 6-June 21,2026 -
 learned new teminologies and methods of finding vunelarity into websites
 
 ## Tools I am learning
