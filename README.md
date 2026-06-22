@@ -21,6 +21,8 @@ Started cybersecurity journey.
 **CTF Practice** solved 1 more CTF on picoCTF
 - Day 6-June 21,2026 -
 learned new teminologies and methods of finding vunelarity into websites
+- Day 7- June 22,2026 -
+learned few more basic skills like Google Docking , WHOIS & DNS Recon , Social media recon , identifying website tech and subdomain enumeration
 
 ## Tools I am learning
 - Kali Linux
