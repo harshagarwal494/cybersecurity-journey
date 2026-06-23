@@ -23,6 +23,8 @@ Started cybersecurity journey.
 learned new teminologies and methods of finding vunelarity into websites
 - Day 7- June 22,2026 -
 learned few more basic skills like Google Docking , WHOIS & DNS Recon , Social media recon , identifying website tech and subdomain enumeration
+- Day 8- June 23,2026 -
+learned few more basics skills like identify target WAF , Scanning with Nmap , Directory Bruteforcing , Vulnerability Scanning , finding exploits ,Reverse Shells VS Bind shells and Metasploit Basics
 
 ## Tools I am learning
 - Kali Linux
