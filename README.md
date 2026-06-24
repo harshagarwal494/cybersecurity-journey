@@ -25,6 +25,8 @@ learned new teminologies and methods of finding vunelarity into websites
 learned few more basic skills like Google Docking , WHOIS & DNS Recon , Social media recon , identifying website tech and subdomain enumeration
 - Day 8- June 23,2026 -
 learned few more basics skills like identify target WAF , Scanning with Nmap , Directory Bruteforcing , Vulnerability Scanning , finding exploits ,Reverse Shells VS Bind shells and Metasploit Basics
+- Day 9- June 24,2026 -
+learned few more basics skills like Exploitation with metasploiy , bruteforce attacks and SQL injection attacks and also solved few levels of **OverTheWire Bandit**
 
 ## Tools I am learning
 - Kali Linux
