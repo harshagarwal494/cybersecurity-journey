@@ -27,6 +27,8 @@ learned few more basic skills like Google Docking , WHOIS & DNS Recon , Social m
 learned few more basics skills like identify target WAF , Scanning with Nmap , Directory Bruteforcing , Vulnerability Scanning , finding exploits ,Reverse Shells VS Bind shells and Metasploit Basics
 - Day 9- June 24,2026 -
 learned few more basics skills like Exploitation with metasploiy , bruteforce attacks and SQL injection attacks and also solved few levels of **OverTheWire Bandit**
+- Day 10- June 25,2026 -
+learned few more basics skills like XSS Attacks , Dumping hashes with Mimikatz , Password Cracking , Clearing Tracks , Port Forwarding 101 and Soial Engineering 101
 
 ## Tools I am learning
 - Kali Linux
