@@ -29,6 +29,8 @@ learned few more basics skills like identify target WAF , Scanning with Nmap , D
 learned few more basics skills like Exploitation with metasploiy , bruteforce attacks and SQL injection attacks and also solved few levels of **OverTheWire Bandit**
 - Day 10- June 25,2026 -
 learned few more basics skills like XSS Attacks , Dumping hashes with Mimikatz , Password Cracking , Clearing Tracks , Port Forwarding 101 and Soial Engineering 101
+- Day 11- June 26,2026 -
+learned few more basics skills like DDOS Attacks and OS Login Phishing
 
 ## Tools I am learning
 - Kali Linux
