@@ -32,7 +32,7 @@ learned few more basics skills like XSS Attacks , Dumping hashes with Mimikatz ,
 - Day 11- June 26,2026 -
 learned few more basics skills like DDOS Attacks and OS Login Phishing
 - Day 12- June 27,2026 -
-solved few more levels of **OverTheWire Bandit**
+solved few more levels of **OverTheWire Bandit**.
 
 ## Tools I am learning
 - Kali Linux
