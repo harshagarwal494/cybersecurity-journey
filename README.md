@@ -35,6 +35,9 @@ learned few more basics skills like DDOS Attacks and OS Login Phishing
 solved few more levels of **OverTheWire Bandit**.
 - Day 13- June 28 , 2026 -
 solved few more CTF on picoCTF
+**Day 14**-
+  not got selected for hakathon so changed the route
+  
 
 ## Tools I am learning
 - Kali Linux
